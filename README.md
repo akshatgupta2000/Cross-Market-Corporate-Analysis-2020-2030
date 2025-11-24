@@ -1,4 +1,13 @@
 # India-US Cross-Sector Forecasting model (2025-30)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Model Type: DCF/ROCE/Valuation](https://img.shields.io/badge/Models-DCF%20%7C%20ROCE%20%7C%20RAPI-blue)
+![Excel Models](https://img.shields.io/badge/Made%20With-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power BI Ready](https://img.shields.io/badge/PowerBI-Ready-F2C811?logo=powerbi&logoColor=black)
+![Dataset Size-Large](https://img.shields.io/badge/Data-Large-orange)
+![India & US](https://img.shields.io/badge/Coverage-India%20%26%20US-red)
+![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
+
+
 Excel-based Corporate Financial Forecasting & Sector Fundamentals Model
 Author: Akshat Gupta
 Status: Public Portfolio Project
